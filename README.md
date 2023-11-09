@@ -187,18 +187,23 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img width="494" alt="image" src="https://github.com/Nagajyothichinta/malaria-cell-recognition/assets/94191344/50d6c829-239f-4d28-9aa0-81f4d7e86eb8">
+
 
 ### Classification Report
 
-Include Classification Report here
+<img width="336" alt="image" src="https://github.com/Nagajyothichinta/malaria-cell-recognition/assets/94191344/4c283995-71e3-4251-8bb6-567abcf75564">
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img width="158" alt="image" src="https://github.com/Nagajyothichinta/malaria-cell-recognition/assets/94191344/c4169bf0-c11b-453f-a2a5-a4d526b86c51">
+
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+<img width="294" alt="image" src="https://github.com/Nagajyothichinta/malaria-cell-recognition/assets/94191344/bde7d8a4-ed15-47ee-b46c-c21b2042d84a">
+
 
 ## RESULT
+The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
